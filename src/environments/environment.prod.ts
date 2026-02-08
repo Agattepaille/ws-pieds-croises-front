@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://pieds-croises-api.duckdns.org',
+  apiUrl: 'https://crossfit-backend-mvz7ah-c87a5f-141-94-77-150.traefik.me/',
 };
