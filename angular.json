@@ -70,11 +70,11 @@
               ],
               "outputHashing": "all"
             },
-            "test": {
+            "dev": {
               "fileReplacements": [
                 {
                   "replace": "src/environments/environment.ts",
-                  "with": "src/environments/environment.test.ts"
+                  "with": "src/environments/environment.dev.ts"
                 }
               ],
               "optimization": false,
@@ -110,8 +110,8 @@
             "preprod": {
               "buildTarget": "pieds-croises-front:build:preprod"
             },
-            "test": {
-              "buildTarget": "pieds-croises-front:build:test"
+            "dev": {
+              "buildTarget": "pieds-croises-front:build:dev"
             },
             "development": {
               "buildTarget": "pieds-croises-front:build:development"
