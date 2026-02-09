@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://pieds-croises-api.duckdns.org',
+  apiUrl: 'https://api.ameliegattepaille.fr',
 };
