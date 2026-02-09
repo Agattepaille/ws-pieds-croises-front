@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api.dev.ameliegattepaille.fr',
+  apiUrl: 'https://api.ameliegattepaille.fr',
 };
